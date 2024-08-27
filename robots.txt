@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://stivenpalacio-E.github.io/al-folio/sitemap.xml
+Sitemap: https://stivenpalacio-E.github.io/sitemap.xml
